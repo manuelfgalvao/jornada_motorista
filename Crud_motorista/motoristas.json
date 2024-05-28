@@ -1,0 +1,20 @@
+[
+    {
+        "nome": "MANUEL FERNANDO GALV\u00c3O DE MELO GUIMAR\u00c3ES",
+        "idade": "18",
+        "cpf": "71514721457",
+        "nascimento": "08/11/2002",
+        "telefone": "81996463351",
+        "endereco": "RUA DR \u00c9NEAS DE LUCENA 297",
+        "email": "manuelpsn0811@gmail.com"
+    },
+    {
+        "nome": "PEDRO BIM",
+        "idade": "22",
+        "cpf": "423324324",
+        "nascimento": "08/11/2002",
+        "telefone": "81996463351",
+        "endereco": "BOA VIAGEM",
+        "email": "PEDROBIM@GMAIL.COM"
+    }
+]
